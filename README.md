@@ -1,6 +1,6 @@
 # spray-playground
 
-## timeout
+## timeout project
 
 ### client
 
